@@ -1,5 +1,7 @@
 # bootstrap-learning
 
+<div align=center><img src=https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png width=192></div>
+
 The project was made with help of [these tutorials](https://www.youtube.com/playlist?list=PLBOL5k415M_WJeZyalQeWrWtH3OHDHxCu) by [SebCode](https://www.youtube.com/@seb-code)
 
 ## Bun generated readme
