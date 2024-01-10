@@ -1,0 +1,32 @@
+h1 {
+    text-decoration: underline solid .1em;
+}
+
+hr {
+    border: none !important;
+    margin-inline: auto !important;
+    margin-block: 2em !important;
+    width: 95%;
+    height: .24em;
+    border-radius: 100vw;
+    background-color: var(--bs-dark);
+    opacity: .44 !important;
+}
+
+.palm-trees {
+    background-image: url("../assets/palm-trees-lowres.jpg");
+}
+
+.sun-shines {
+    background-image: url("../assets/sun-shines-lowres.jpg");
+}
+
+.moon-man {
+    background-image: url("../assets/the-moon-man-lowres.jpg");
+}
+
+img {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+}
