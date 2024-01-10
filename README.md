@@ -1,6 +1,6 @@
 # bootstrap-learning
 
-The project was made with help of these tutorials by [SebCode](https://www.youtube.com/@seb-code): <https://www.youtube.com/playlist?list=PLBOL5k415M_WJeZyalQeWrWtH3OHDHxCu>
+The project was made with help of [these tutorials](https://www.youtube.com/playlist?list=PLBOL5k415M_WJeZyalQeWrWtH3OHDHxCu) by [SebCode](https://www.youtube.com/@seb-code)
 
 ## Bun generated readme
 
